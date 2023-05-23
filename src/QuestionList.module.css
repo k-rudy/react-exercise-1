@@ -1,0 +1,7 @@
+.questions {
+  width: 700px;
+  list-style-type: none;
+  margin: auto 10;
+  text-align: left;
+  display: inline-block;
+}

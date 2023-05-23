@@ -1,0 +1,20 @@
+.question {
+  margin: 15px 0;
+}
+
+.question div {
+  background-color: #EEEEEE;
+  padding: 15px;
+  margin: 2px 0;
+}
+
+.question li {
+  margin: 2px 0;
+  background-color: #EEB5FE;
+  padding: 15px;
+}
+
+.optionsGroup {
+  list-style-type: none;
+  padding: 0;
+}
